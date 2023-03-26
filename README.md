@@ -6,7 +6,7 @@ Verify downloaded file hashed using SHA-256 algorithm.
 
 ## Usage
 
-```python
+```
 # see the help page
 python vhash.py -h
 
